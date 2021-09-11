@@ -6,9 +6,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## Table of Contents
 
-1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
+<!--1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
- <!-- 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
+3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 3. [Caesar Cypher](#04-caesar-cypher)
 4. [Scope](#05-scope)
 5. [Arrays I](#06-arrays-I)
