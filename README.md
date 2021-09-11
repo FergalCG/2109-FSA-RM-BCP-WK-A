@@ -2,7 +2,7 @@
 
 Hello! This is where I will put all the material for BCP. If any of the links don't work don't hesitate to slack me and let me know.
 
-[![Run on Repl.it](https://repl.it/badge/github/arielahdoot/2108-FSA-RM-BCP-MO-C)](https://repl.it/github/arielahdoot/2108-FSA-RM-BCP-MO-C)
+[![Run on Repl.it](https://repl.it/badge/github/FergalCG/2109-FSA-RM-BCP-WK-A)](https://repl.it/github/FergalCG/2109-FSA-RM-BCP-WK-A)
 
 ## Table of Contents
 
