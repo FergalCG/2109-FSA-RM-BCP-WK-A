@@ -41,20 +41,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 -   [Control Flow(if and else) 8 kyu](https://www.codewars.com/kata/search/my-languages?beta=false&q=&r=-8&tags=Control+Flow)
 -   [Control Flow 7 kyu](https://www.codewars.com/kata/search/my-languages?q=&r%5B%5D=-7&tags=Control+Flow&beta=false)
 
-<!--## **00 Additional Notes**
-
-### Notes
-
-[Full Notes](00-additional-notes)
-
-1. [Functions](00-additional-notes/01-functions.js)
-2. [Const vs Lets](00-additional-notes/02-const-vs-let.js)
-3. [Quick Maths](00-additional-notes/03-quick-maths.js)
-4. [String Interpolation](00-additional-notes/04-string-interpolation.js)
-
 ## **01 Introduction and Tidy Code**
 
-**[Live Lecture](https://youtu.be/ETeNTB7QS_w)**
+**[Live Lecture + Review](https://youtu.be/UXmszCJKUWU)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 
@@ -62,12 +51,6 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Lecture Slides](00-slides/01-Introduction-and-Tidy-Code.pdf)
 
-### Notes
-
-[Full Notes](01-tidy-code)
-
-1. [Indenting](01-tidy-code/A-indenting.js)
-2. [Variable Names](01-tidy-code/B-variableNaming.js)
 
 ## **02 Loops And Debugging**
 
@@ -75,33 +58,24 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
 
-**[Live Lecture](https://youtu.be/RSHet0N8Kjg)**
+**[Live Lecture + Review](https://youtu.be/fyeNWLc7g0Q)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
 
-### Notes
-
-[Full Notes](02-loops-and-debugging)
-
-1. [While Loop](02-loops-and-debugging/A-while-loop.js)
-2. [For Loop](02-loops-and-debugging/B-for-loop.js)
-3. [Which is Better](02-loops-and-debugging/C-for-vs-while.js)
-4. [Continue Keyword](02-loops-and-debugging/D-continue.js)
-5. [Break Keyword](02-loops-and-debugging/E-break.js)
 
 ## **03 Coercion and Truthiness**
 
 [Lecture Slides](03-coercion-and-truthiness/Coercion-and-Truthiness.pdf)
 
-**[Live Lecture](https://youtu.be/1rjSVHJdMCw)**
+**[Live Lecture + Review](https://youtu.be/nVWy1yakAuY)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed59/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed5b/text)
 
-## **04 Caesar Cypher**
+<!--## **04 Caesar Cypher**
 
 **[Live Lecture (REACTO)](https://youtu.be/bIXEB4iKmCM)**
 
