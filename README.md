@@ -75,9 +75,10 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed5b/text)
 
-<!--## **04 Caesar Cypher**
 
-**[Live Lecture (REACTO)](https://youtu.be/bIXEB4iKmCM)**
+## **04 Caesar Cypher**
+
+**[Live Lecture (REACTO)](https://youtu.be/nRSler1WJbs)**
 
 **[Solution - Caesar Cypher](https://youtu.be/AN2fwt0n454)**
 
@@ -85,69 +86,30 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
 
---- Solution code from live review in `04-reacto/review.js`
-
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
-### Notes
-
-- [Our Caesar Cypher](https://codepen.io/habst/pen/yLVGmxo?editors=0010)
-- [Our vowelCount](https://repl.it/@hpr/WoozyParallelComputer#index.js)
 
 ## **05 Scope**
 
-**[Live Lecture + Workshop Review](https://youtu.be/MvXHTvMtbio)**
-
-**[Scope Workshop Problems 4 & 5 Review](https://youtu.be/zxzapd17ThM)**
+**[Live Lecture + Workshop Review](https://youtu.be/9ivgOb8gC6E)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
-### Notes
-
-[Full Notes](05-scope)
-
-1. [What is Scope?](05-scope/A-scope-is.js)
-2. [Global Scope](05-scope/B-globalscope.js)
-3. [Functional Scope](05-scope/C-func-scope.js)
-4. [Nested Functions & Functional Scope](05-scope/D-nestedfunc.js)
-5. [Block Scope](05-scope/E-blockscope.js)
-6. [Hoisting](05-scope/F-hoisting.js)
-7. [Best Practices](05-scope/G-bestpract.js)
 
 ## **06 Arrays I**
 
-**[Live Lecture + Solutions](https://youtu.be/B8C-TeMZU88)**
-
-**[Live Solutions](https://youtu.be/tEVT4mS0-TQ)**
+**[Live Lecture + Solutions](https://youtu.be/9C4qPsjl7sA)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
-### Notes
 
-[Full Notes](06-arrays-I)
-
-1. [Array Definition](06-arrays-I/A-array-definition.js)
-2. [Typeof & Array.isArray()](06-arrays-I/B-typeof-isArray.js)
-3. [Bracket Access](06-arrays-I/C-bracket-access.js)
-4. [Bracket Assignment](06-arrays-I/D-br-assignment.js)
-5. [Array Looping](06-arrays-I/E-array-looping.js)
-6. [Array Length](06-arrays-I/F-array-length.js)
-7. [Array.push()](06-arrays-I/G-array-push.js)
-8. [Array.pop()](06-arrays-I/H-array-pop.js)
-9. [Array.shift()](06-arrays-I/I-array-shift.js)
-10. [Array.unshift()](06-arrays-I/J-array-unshift.js)
-11. [Array.indexOf()](06-arrays-I/K-array-indexof.js)
-12. [Array.slice()](06-arrays-I/L-array-slice.js)
-13. [Array.includes()](06-arrays-I/M-array-includes.js)
-14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
-
-## **07 Arrays II**
+<!--## **07 Arrays II**
 
 **[Lecture Slides](07-arraysII/07.Arrays-II.pdf)**
 
@@ -160,6 +122,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
+
 
 ## **08 Sudoku Validator**
 
@@ -176,6 +139,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 ### Notes
 
 [Our Solutions](https://codepen.io/habst/pen/bGBPRYq?editors=0010)
+
 
 ## **09 Objects**
 
