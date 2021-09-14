@@ -109,22 +109,18 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
 
-<!--## **07 Arrays II**
+## **07 Arrays II**
+
+**[Live Lecture + Workshop Review](https://youtu.be/3qPyLAlVSRk)**
 
 **[Lecture Slides](07-arraysII/07.Arrays-II.pdf)**
-
-**[Live Lecture + Workshop Review](https://youtu.be/ys1_8lFANrc)**
-
-**[Review](07-arraysII/solutions.js)**
-
-**[extra topics](07-arraysII/notes.js)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
 
-## **08 Sudoku Validator**
+<!--## **08 Sudoku Validator**
 
 **[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
 
