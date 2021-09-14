@@ -56,7 +56,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
 
-[Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
+[Lecture Slides](Lecture-Slides/02-Loops-and-Debugging.pptx)
 
 **[Live Lecture + Review](https://youtu.be/fyeNWLc7g0Q)**
 
@@ -67,7 +67,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **03 Coercion and Truthiness**
 
-[Lecture Slides](03-coercion-and-truthiness/Coercion-and-Truthiness.pdf)
+[Lecture Slides](Lecture-Slides/03-Coercion-and-Truthiness.pptx)
 
 **[Live Lecture + Review](https://youtu.be/nVWy1yakAuY)**
 
@@ -84,7 +84,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Solution - Find Missing Number](https://youtu.be/20DegeggnKY)**
 
-[Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
+[Lecture Slides](Lecture-Slides/04-BCP-REACTO.pptx)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
@@ -95,6 +95,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Live Lecture + Workshop Review](https://youtu.be/9ivgOb8gC6E)**
 
+**[Lecture Slides](Lecture-Slides/04-Scope.pptx)**
+
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
@@ -103,6 +105,8 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 ## **06 Arrays I**
 
 **[Live Lecture + Solutions](https://youtu.be/9C4qPsjl7sA)**
+
+**[Lecture Slides](Lecture-Slides/05-Arrays-I.pptx)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
 
@@ -113,7 +117,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Live Lecture + Workshop Review](https://youtu.be/3qPyLAlVSRk)**
 
-**[Lecture Slides](07-arraysII/07.Arrays-II.pdf)**
+**[Lecture Slides](Lecture-Slides/06-Arrays-II.pptx)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
