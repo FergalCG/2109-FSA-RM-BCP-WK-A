@@ -124,11 +124,11 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
 
-<!--## **08 Sudoku Validator**
+## **08 Sudoku Validator**
 
 **[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
 
-**[Review](https://youtu.be/kYe2oNQmO04)**
+<!--**[Review](https://youtu.be/kYe2oNQmO04)**-->
 
 [Lecture Slides](08-sudoku-validator/08.BCP-Sudoku.pdf)
 
@@ -136,38 +136,17 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
 
-### Notes
-
-[Our Solutions](https://codepen.io/habst/pen/bGBPRYq?editors=0010)
-
 
 ## **09 Objects**
 
-**[Live Lecture](https://youtu.be/zmiCx3MrUow)**
+**[Live Lecture + Review](https://youtu.be/Ohx6js98fkE)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
 
-#### Notes
 
-[Full Notes](09-objects)
-
-1. [What is an Object](09-objects/A-what-is-obj.js)
-2. [Why are Objects Useful](09-objects/B-why-useful.js)
-3. [Typeof an Object](09-objects/C-typeof-obj.js)
-4. [Creating Objects](09-objects/D-create-obj.js)
-5. [Access Object Properties](09-objects/E-obj-access.js)
-6. [Adding Object Properties](09-objects/F-add-to-obj.js)
-7. [Changing Object Properties](09-objects/G-change-val.js)
-8. [Deleting Object Properties](09-objects/H-delete-kv.js)
-9. [In Operator](09-objects/I-in-operator.js)
-10. [For In Loop](09-objects/J-for-in-loop.js)
-11. [Object Methods](09-objects/K-object-keys.js)
-12. [Nested Arrays](09-objects/L-nested-arr.js)
-13. [Nested Objects](09-objects/M-nested-obj.js)
-
-### **Object Methods**
+<!--### **Object Methods**
 
 **[Live Lecture](https://youtu.be/pZ5Sm2yUfzo)**
 
