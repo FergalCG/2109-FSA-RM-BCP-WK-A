@@ -128,39 +128,38 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
 
-<!--**[Review](https://youtu.be/kYe2oNQmO04)**-->
+<!--[Workshop](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
+
+**[Review](https://youtu.be/kYe2oNQmO04)**
 
 [Lecture Slides](08-sudoku-validator/08.BCP-Sudoku.pdf)
 
-[Workshop](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
-
-[Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)-->
 
 
 ## **09 Objects**
 
 **[Live Lecture + Review](https://youtu.be/Ohx6js98fkE)**
 
+[Lecture Slides](Lecture-Slides/07-Objects.pptx)
+
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
 
 
-<!--### **Object Methods**
+### **Object Methods**
 
-**[Live Lecture](https://youtu.be/pZ5Sm2yUfzo)**
+<!--**[Live Lecture](https://youtu.be/pZ5Sm2yUfzo)**-->
+
+[Lecture Slides](Lecture-Slides/08-Object-Methods.pptx)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
+<!--[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)-->
 
-#### Notes
 
-1. [What Are Methods](09-objects/N-whatisamethod.js)
-2. [Creating Methods](09-objects/O-createmethods.js)
-3. [this](09-objects/P-this.js)
-
-##### 4. [Workshop Questions & Solutions](09-objects/Q-object-methods-workshop-and-solutions-links.md)
+<!--##### 4. [Workshop Questions & Solutions](09-objects/Q-object-methods-workshop-and-solutions-links.md)
 
 ## **Pass By Value, Pass By Reference - Optional Advanced Lecture 1**
 
