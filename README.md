@@ -150,7 +150,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **10 Object Methods**
 
-<!--**[Live Lecture](https://youtu.be/pZ5Sm2yUfzo)**-->
+**[Live Lecture](https://youtu.be/a9xth_Gj-Tw)**
 
 [Lecture Slides](Lecture-Slides/08-Object-Methods.pptx)
 
