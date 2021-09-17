@@ -128,13 +128,13 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Live Lecture](https://youtu.be/LtkzMMOMtBM)**
 
-<!--[Workshop](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
+[Workshop](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
 
 **[Review](https://youtu.be/kYe2oNQmO04)**
 
 [Lecture Slides](08-sudoku-validator/08.BCP-Sudoku.pdf)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)-->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
 
 
 ## **09 Objects**
