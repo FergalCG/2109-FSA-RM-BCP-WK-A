@@ -162,7 +162,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Live Lecture](https://youtu.be/nCGm8TXKaBk)**
 
-[Lecture Slides](Lecture-Slides/09-PBV/PBR.pptx)
+[Lecture Slides](Lecture-Slides/09-PBV-PBR.pptx)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
 
