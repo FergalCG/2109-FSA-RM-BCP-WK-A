@@ -16,7 +16,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
 10. [Object Methods](#10-object-methods)
-11. [Pass by Value/Pass by Reference](#11-pass-by-value/pass-by-reference)
+11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
 14. [Recursion I](#14-recursion-i)
 15. [Recursion II](#15-recursion-ii)
