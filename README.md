@@ -6,18 +6,21 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## Table of Contents
 
-<!--1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
+1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
-3. [Caesar Cypher](#04-caesar-cypher)
-4. [Scope](#05-scope)
-5. [Arrays I](#06-arrays-I)
-6. [Arrays II](#07-arrays-ii)
-7. [Sudoku Validator](#08-sudoku-validator)
-8. [Objects](#09-objects)
-9. [Recursion I](#10-recursion-i)
-10. [Recursion II](#11-recursion-ii)
-11. [Next Steps](#12-next-steps) -->
+4. [Caesar Cypher](#04-caesar-cypher)
+5. [Scope](#05-scope)
+6. [Arrays I](#06-arrays-I)
+7. [Arrays II](#07-arrays-ii)
+8. [Sudoku Validator](#08-sudoku-validator)
+9. [Objects](#09-objects)
+10. [Object Methods](#10-object-methods)
+11. [Pass by Value/Pass by Reference](#11-pass-by-value/pass-by-reference)
+12. [Higher Order Functions I](#12-higher-order-functions-i)
+14. [Recursion I](#14-recursion-i)
+15. [Recursion II](#15-recursion-ii)
+16. [Next Steps](#16-next-steps)
 
 ## Additional Resources
 
@@ -180,7 +183,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **13 Higher Order Functions II**
 
-**[Live Lecture](https://youtu.be/nCGm8TXKaBk)**
+**[Live Lecture](https://youtu.be/-_7R_j61UZ0)**
 
 [Lecture Slides](Lecture-Slides/11-Higher-Order-Functions-II.pptx)
 
@@ -190,7 +193,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **14 Recursion I**
 
-**[Live Lecture](https://youtu.be/nCGm8TXKaBk)**
+**[Live Lecture](https://youtu.be/J5lk5cmJlkM)**
 
 [Lecture Slides](Lecture-Slides/12-Recursion-I.pptx)
 
@@ -200,7 +203,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **15 Recursion II**
 
-**[Live Lecture](https://youtu.be/nCGm8TXKaBk)**
+**[Live Lecture](https://youtu.be/ebkwM9Oi5DI)**
 
 [Lecture Slides](Lecture-Slides/13-Recursion-II.pptx)
 
@@ -210,7 +213,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **16 Next Steps**
 
-**[Live Lecture](https://youtu.be/nCGm8TXKaBk)**
+**[Live Lecture](https://youtu.be/vcxvM_paMKI)**
 
 [Lecture Slides](Lecture-Slides/14-Next-Steps.pptx)
 
