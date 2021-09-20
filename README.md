@@ -168,6 +168,54 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62c1/text)
 
+## **12 Higher Order Functions I**
+
+**[Live Lecture](https://youtu.be/OaQXmTmkMxw)**
+
+[Lecture Slides](Lecture-Slides/10-Higher-Order-Functions-I.pptx)
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fb/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)
+
+## **13 Higher Order Functions II**
+
+**[Live Lecture](https://youtu.be/nCGm8TXKaBk)**
+
+[Lecture Slides](Lecture-Slides/11-Higher-Order-Functions-II.pptx)
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)
+
+## **14 Recursion I**
+
+**[Live Lecture](https://youtu.be/nCGm8TXKaBk)**
+
+[Lecture Slides](Lecture-Slides/12-Recursion-I.pptx)
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
+
+## **15 Recursion II**
+
+**[Live Lecture](https://youtu.be/nCGm8TXKaBk)**
+
+[Lecture Slides](Lecture-Slides/13-Recursion-II.pptx)
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6428/text)
+
+## **16 Next Steps**
+
+**[Live Lecture](https://youtu.be/nCGm8TXKaBk)**
+
+[Lecture Slides](Lecture-Slides/14-Next-Steps.pptx)
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca5637c6f1bb0004fcdab0/landing)
+
 
 <!--##### 4. [Workshop Questions & Solutions](09-objects/Q-object-methods-workshop-and-solutions-links.md)
 
