@@ -176,7 +176,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Live Lecture](https://youtu.be/OaQXmTmkMxw)**
 
-[Lecture Slides](Lecture-Slides/10-Higher-Order-Functions-I.pptx)
+[Lecture Slides](Lecture-Slides/10-Higher-order-Functions-I.pptx)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fb/text)
 
@@ -186,7 +186,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 **[Live Lecture](https://youtu.be/-_7R_j61UZ0)**
 
-[Lecture Slides](Lecture-Slides/11-Higher-Order-Functions-II.pptx)
+[Lecture Slides](Lecture-Slides/11-Higher-order-Functions-II.pptx)
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
 
